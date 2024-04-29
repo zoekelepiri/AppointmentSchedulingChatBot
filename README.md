@@ -10,17 +10,17 @@ The support/customer service flowchart demonstrates the key use case of automati
 # AIML Code
 
 In the AIML code we use the following tags to demonstrate the productive way for the chatbot:
-  - 1) <that>
-  - 2) <topic>
-  - 3) Variable: <set>
-  - 4) Variable: <get>
-  - 5) <sets>
-  - 6) <map>
-  - 7) properties
-  - 8) substitutions (whatever you select)
-  - 9) <button>
-  - 10) <link>
-  - 11) <reply>
+  - that
+  - topic
+  - Variable: set
+  - Variable: get
+  - sets
+  - map
+  - properties
+  - substitutions
+  - button
+  - link
+  - reply
 
 # Chatbot Behavior
 The chatbot demonstrates the following behaviors:
